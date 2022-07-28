@@ -1,1 +1,1 @@
-# php-app-for-jenkins
+# PHP App for Jenkins. Amazon Elastic Beanstalk
